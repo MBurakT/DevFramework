@@ -18,6 +18,6 @@ namespace DevFramework.Core.DataAccess
 
         T Update(T entity);
 
-        void Delete(T entity);2
+        void Delete(T entity);
     }
 }
