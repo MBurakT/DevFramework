@@ -1,0 +1,6 @@
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pdb
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
