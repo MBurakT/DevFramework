@@ -30,3 +30,6 @@ C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess
 C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess.Tests\obj\Debug\DevFramework.DataAccess.Tests.pdb
 C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.dll
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.pdb
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.DataAccess.Tests\bin\Debug\FluentNHibernate.xml

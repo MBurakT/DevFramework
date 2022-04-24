@@ -19,3 +19,6 @@ C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.
 C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.DataAccess\obj\Debug\DevFramework.Northwind.DataAccess.csproj.CopyComplete
 C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.DataAccess\obj\Debug\DevFramework.Northwind.DataAccess.dll
 C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.DataAccess\obj\Debug\DevFramework.Northwind.DataAccess.pdb
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.DataAccess\bin\Debug\FluentNHibernate.dll
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.DataAccess\bin\Debug\FluentNHibernate.pdb
+C:\Users\MuhammetBurakTurhan\Desktop\CSharp\DevFramework\DevFramework.Northwind.DataAccess\bin\Debug\FluentNHibernate.xml
